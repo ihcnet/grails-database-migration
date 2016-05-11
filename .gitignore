@@ -22,3 +22,4 @@ stacktrace.log
 .project
 .idea/*
 *.iml
+/plugins
